@@ -1,0 +1,21 @@
+{
+    "name": "@pierreminiggio/timeout",
+    "version": "1.0.0",
+    "description": "",
+    "main": "timeout.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pierreminiggio/timeout.git"
+    },
+    "author": "Pierre MINIGGIO",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pierreminiggio/timeout/issues"
+    },
+    "homepage": "https://github.com/pierreminiggio/timeout#readme",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
