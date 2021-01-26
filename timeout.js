@@ -1,10 +1,8 @@
 /**
- * @param {int} ms 
+ * @param {number} ms 
  * 
  * @return {Promise}
  */
-function timeout (ms) {
+export default function timeout(ms) {
     return new Promise(resolve => setTimeout(resolve, ms))
 }
-
-module.exports = timeout
